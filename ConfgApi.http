@@ -1,0 +1,6 @@
+@ConfgApi_HostAddress = http://localhost:5274
+
+GET {{ConfgApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
